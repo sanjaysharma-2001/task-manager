@@ -1,8 +1,12 @@
 # Airtribe
 PS D:\NODEJS> md task-manager
+
 PS D:\NODEJS> cd .\task-manager\
+
 PS D:\NODEJS\task-manager> code . 
+
 PS D:\NODEJS\task-manager> npm init
+
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
@@ -46,7 +50,9 @@ About to write to D:\NODEJS\task-manager\package.json:
 
 
 Is this OK? (yes) yes
+
 PS D:\NODEJS\task-manager> npm install --save-dev express
+
 
 added 63 packages, and audited 64 packages in 5s
 
