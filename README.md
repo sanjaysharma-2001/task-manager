@@ -66,3 +66,11 @@ PS D:\NODEJS\task-manager>
 PS D:\NODEJS\task-manager> node .\app.js 
 
 Started the server
+
+PS D:\NODEJS\task-manager> node --inspect-brk .\app.js
+
+Debugger listening on ws://127.0.0.1:9229/ffa64175-a87c-4b89-b3f0-b1375596ae12
+
+For help, see: https://nodejs.org/en/docs/inspector
+
+Debugger attached.
