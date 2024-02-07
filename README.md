@@ -1,15 +1,5 @@
 # Airtribe
 PS D:\NODEJS> md task-manager
-
-
-    Directory: D:\NODEJS
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----        07-02-2024     21:52                task-manager
-
-
 PS D:\NODEJS> cd .\task-manager\
 PS D:\NODEJS\task-manager> code . 
 PS D:\NODEJS\task-manager> npm init
