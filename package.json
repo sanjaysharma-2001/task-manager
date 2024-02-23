@@ -1,21 +1,17 @@
 {
-  "name": "task-manager",
+  "name": "news-aggregator",
   "version": "1.0.0",
-  "description": "Task Manager",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanjaysharma-2001/Airtribe.git"
+    "url": "https://github.com/sanjaysharma-2001/airtribe/news-aggregator"
   },
-  "author": "Sanjay",
+  "author": "K",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sanjaysharma-2001/Airtribe/issues"
-  },
-  "homepage": "https://github.com/sanjaysharma-2001/Airtribe#readme",
   "devDependencies": {
     "express": "^4.18.2"
   }
