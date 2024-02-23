@@ -1,0 +1,18 @@
+{
+  "name": "news-aggregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjaysharma-2001/airtribe/news-aggregator"
+  },
+  "author": "K",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
